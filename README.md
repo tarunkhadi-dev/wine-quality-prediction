@@ -1,3 +1,7 @@
+## 🚀 Live Demo
+
+👉 https://wine-quality-prediction-fm3tl34buedht8uecu2ulm.streamlit.app/
+
 # Wine Quality Prediction using Logistic Regression and SVM
 
 ## 📌 Project Overview
